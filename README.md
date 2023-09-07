@@ -1,7 +1,7 @@
 
 ## About The Project
 
-This code is a samplile of laravel projects and it is about a part of store system
+This code is a sample of laravel projects and it is about a part of store system
 
  The actions In This Project
  
