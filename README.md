@@ -13,5 +13,5 @@ This code is a sample of laravel project and it is about a part of store system
 
 4 - Api for geting the products
 
-5 - Feauter Test
+5 - PHPUnit testing
 
