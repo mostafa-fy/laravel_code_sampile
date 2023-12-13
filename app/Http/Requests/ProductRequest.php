@@ -39,6 +39,7 @@ class ProductRequest extends FormRequest
             'name' => ['required', 'string', 'max:255'],
             'keys'=>'',
             'values'=>'',
+            'apperance'=>'',
         
         ];
 
